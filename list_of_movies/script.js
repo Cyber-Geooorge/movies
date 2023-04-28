@@ -1,4 +1,4 @@
-const apikey = "5d28424e";
+const apikey = "?";
 
 const form = document.getElementById("form");
 const input = document.getElementById("search_input");
